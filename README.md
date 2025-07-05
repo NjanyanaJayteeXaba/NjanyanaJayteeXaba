@@ -1,8 +1,8 @@
 # Hi, I'm Jaytee Xaba! 👋  
 🌍 **About Me:** 
 <p align="center">
-<img src="https://github.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/blob/main/5223113-hd_3840_2160_30fps-ezgif.com-video-to-gif-converter.gif" width="400" height="300">
-<img src="https://github.com/user-attachments/assets/0e5e0bab-c5ce-4b8b-9378-3b11c2882aa8" width="400" height="300">
+<img src="https://github.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/blob/main/5223113-hd_3840_2160_30fps-ezgif.com-video-to-gif-converter.gif" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/0e5e0bab-c5ce-4b8b-9378-3b11c2882aa8" width="300" height="200">
 </p>
  
 I am passionate with Technology in general, software development, and network infrastructure. Currently sharpening my skills in Java, Python, and SQL.  
