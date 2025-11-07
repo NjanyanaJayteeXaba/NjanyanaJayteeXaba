@@ -8,13 +8,13 @@
 I am passionate with Technology in general, software development, and network infrastructure. Currently sharpening my skills in Java, Python, and SQL.  
 
 🛠️ **Tech & Tools:**  
-- Java | Swing | NetBeans  
+- Java | JDBC | NetBeans  
 - Python | Thorn
 - HTML | CSS | JavaScript | Notepad++
 - SQL | H2 database
 
 🌱 **Learning Journey:**  
-- Mastering Java and GUI development with Swing  
+- Mastering Java and GUI development and I am still growing my skills in Java JDBC (Database Intergration)
 - Expanding my knowledge in Python and SQL  
 - Exploring network infrastructure and security  
 
