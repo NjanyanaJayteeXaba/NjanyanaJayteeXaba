@@ -24,6 +24,7 @@ Always open to collaborating on IT solutions, Java-based applications, Python, W
 📫 **Reach Me At:**  
 - LinkedIn: [Njanyana Xaba](https://za.linkedin.com/in/njanyana-xaba-8b6b69296)  
 - Email: [njanyanaxaba5@gmail.com](mailto:njanyanaxaba5@gmail.com)  
+                    --- www.jayteexaba.tech ---
 
 ⚡ **Fun Fact:**  
 I enjoy simplifying complex IT concepts and breaking them down into real-world analogies.  
