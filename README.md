@@ -23,7 +23,7 @@ Always open to collaborating on IT solutions, Java-based applications, Python, W
 
 📫 **Reach Me At:**  
 - LinkedIn: [Njanyana Xaba](https://za.linkedin.com/in/njanyana-xaba-8b6b69296)  
-- Email: [223056359@mycput.ac.za](mailto:223056359@mycput.ac.za)  
+- Email: [contactus@jayteexaba.tech](mailto:contactus@jayteexaba.tech)  
                     --- www.jayteexaba.tech ---
 
 ⚡ **Fun Fact:**  
