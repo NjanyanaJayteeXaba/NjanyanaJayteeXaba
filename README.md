@@ -8,30 +8,31 @@
  
 I have a deep passion for technology, software development, and network infrastructure. Recently, I have actively expanded my expertise into Artificial Intelligence, mastering API controls, and engineering secure, interactive chatbots for live web environments. Alongside this new frontier, I am continuously sharpening my foundational skills in Java, Python, and SQL.  
 
-🛠️ **Tech & Tools:** <table align="center">
+🛠️ **Tech & Tools:** <table align="left">
     <tr>
-        <td align="center" width="90">
+        <td align="left" width="90">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
             <br>Python
         </td>
-        <td align="center" width="90">
+        <td align="left" width="90">
             <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
             <br>Java
         </td>
-        <td align="center" width="90">
+        <td align="left" width="90">
             <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="45" height="45" />
             <br>SQL
         </td>
-        <td align="center" width="90">
+        <td align="left" width="90">
             <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45" />
             <br>HTML
         </td>
-        <td align="center" width="90">
+        <td align="left" width="90">
             <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45" />
             <br>CSS
         </td>
     </tr>
 </table>
+<br clear="all">
 
 * Java | JDBC | Client and Server Connection | NetBeans  
 * Python | Thorn 
