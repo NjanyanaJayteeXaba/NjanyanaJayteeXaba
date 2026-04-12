@@ -56,4 +56,8 @@ I have a deep passion for technology, software development, and network infrastr
 🚀 More projects coming soon...  
 
 <br>
-![github contribution grid snake animation](https://raw.githubusercontent.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/output/dist/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/output/dist/github-snake.svg" />
+</picture>
