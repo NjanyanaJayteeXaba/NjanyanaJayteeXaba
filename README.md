@@ -1,5 +1,7 @@
 # Hi, I'm JayTee Xaba! 👋  
-🌍 **About Me:** <p align="center">
+🌍 **About Me:** 
+
+<p align="center">
 <img src="https://github.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/blob/main/5223113-hd_3840_2160_30fps-ezgif.com-video-to-gif-converter.gif" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/0e5e0bab-c5ce-4b8b-9378-3b11c2882aa8" width="400" height="300">
 </p>
@@ -53,4 +55,5 @@ I have a deep passion for technology, software development, and network infrastr
 🚀 More projects coming soon...  
 
 <br>
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<br>
+![github contribution grid snake animation](https://raw.githubusercontent.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/output/github-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/NjanyanaJayteeXaba/NjanyanaJayteeXaba/output/github-snake.svg#gh-light-mode-only)
