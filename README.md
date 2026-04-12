@@ -40,14 +40,14 @@ I have a deep passion for technology, software development, and network infrastr
 * SQL | H2 Database | MySQL | Codespaces
 * API Integration | Gemini AI
 
-🌱 **Learning Journey:** * Mastering Java and GUI development whilst growing my skills in database integration and client-server architecture.
+🌱 **Learning Journey:**  Mastering Java and GUI development whilst growing my skills in database integration and client-server architecture.
 * Exploring API architecture, AI model integration, and secure chatbot deployment.  
 * Expanding my knowledge in Python and SQL.  
 * Exploring network infrastructure and security.  
 
 👯 **Collaboration Goals:** Always open to collaborating on IT solutions, Java-based applications, Python scripts, AI chatbots, websites, and network security projects.  
 
-📫 **Reach Me At:** * LinkedIn: [Njanyana Xaba](https://za.linkedin.com/in/njanyana-xaba-8b6b69296)  
+📫 **Reach Me At:** LinkedIn: [Njanyana Xaba](https://za.linkedin.com/in/njanyana-xaba-8b6b69296)  
 * Email: [contactus@jayteexaba.tech](mailto:contactus@jayteexaba.tech)  
 * Website: [www.jayteexaba.tech](https://www.jayteexaba.tech)
 
