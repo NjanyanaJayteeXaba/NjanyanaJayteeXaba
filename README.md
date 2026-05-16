@@ -47,7 +47,7 @@ I have a deep passion for technology, software development, and network infrastr
 👯 **Collaboration Goals:** Always open to collaborating on IT solutions, Java-based applications, Python scripts, AI chatbots, websites, and network security projects.  
 
 📫 **Reach Me At:** LinkedIn: [Njanyana Xaba](https://za.linkedin.com/in/njanyana-xaba-8b6b69296)  
-* Email: [223056359@mycput.ac.za](mailto:223056359@mycput.ac.za) )
+* Email: [contactus@jayteexaba.tech](mailto:contactus@jayteexaba.tech) )
 
 ⚡ **Fun Fact:** I enjoy simplifying complex IT concepts and breaking them down into real-world analogies.  
 
